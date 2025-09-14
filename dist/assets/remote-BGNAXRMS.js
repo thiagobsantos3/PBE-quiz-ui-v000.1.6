@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime-BjG_zV1W.js";import"./quiz__loadShare__react__loadShare__-B0OBrSAi.js";import"./quiz__mf_v__runtimeInit__mf_v__-C6OgKb9z.js";const o=()=>e.jsxs("div",{style:{padding:16},children:[e.jsx("h2",{children:"Quiz Remote"}),e.jsx("p",{children:"This is rendered from the quiz micro-frontend."})]});export{o as default};

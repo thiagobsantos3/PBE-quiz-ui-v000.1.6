@@ -1,0 +1,1 @@
+import{q as r,a as t}from"./quiz__mf_v__runtimeInit__mf_v__-C6OgKb9z.js";const{loadShare:_}=t,{initPromise:o}=r,a=o.then(e=>_("react",{customShareInfo:{shareConfig:{singleton:!0,strictVersion:!1,requiredVersion:"^18 || ^19"}}})),s=await a.then(e=>e());var n=s;export{n as q};
